@@ -1,0 +1,7 @@
+[
+    {
+        "model": "gpt-4",
+        "api_key": "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",
+        "tags": ["gpt-4", "tool"]
+    }
+]
